@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mocha": "^9.2.2"
+  },
+  "name": "demo-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
